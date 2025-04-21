@@ -6,7 +6,7 @@
         "env": {
           "DISPLAY": ":1"
         }
-      },
+      }, 
       "airbnb": {
       "command": "npx",
       "args": [

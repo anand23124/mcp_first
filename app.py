@@ -28,7 +28,6 @@ async def run_memory_chat():
     print("Type 'exit' or 'quit' to end the conversation")
     print("Type 'clear' to clear conversation history")
     print("===========================================\n")
-
     try:
         while True:
             user_input = input("\nYou: ")
